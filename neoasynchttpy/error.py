@@ -1,0 +1,4 @@
+
+
+class NeoAsyncHTTPyException(Exception):
+    pass
