@@ -3,7 +3,7 @@ import datetime
 import json
 import logging
 
-from .exception import NeoAsyncHTTPyException
+from .error import NeoAsyncHTTPyException
 from .utils import Timer
 
 
